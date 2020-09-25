@@ -1,0 +1,9 @@
+/home/superhero/Documents/Tutorials/conference-demo/src/main/java/com/example/conferencedemo/model/Session.java
+/home/superhero/Documents/Tutorials/conference-demo/src/main/java/com/example/conferencedemo/ConferenceDemoApplication.java
+/home/superhero/Documents/Tutorials/conference-demo/src/main/java/com/example/conferencedemo/controller/SessionsController.java
+/home/superhero/Documents/Tutorials/conference-demo/src/main/java/com/example/conferencedemo/controller/HomeController.java
+/home/superhero/Documents/Tutorials/conference-demo/src/main/java/com/example/conferencedemo/model/Speaker.java
+/home/superhero/Documents/Tutorials/conference-demo/src/main/java/com/example/conferencedemo/repository/SessionRepository.java
+/home/superhero/Documents/Tutorials/conference-demo/src/main/java/com/example/conferencedemo/repository/SpeakerRepository.java
+/home/superhero/Documents/Tutorials/conference-demo/src/main/java/com/example/conferencedemo/controller/SpeakersController.java
+/home/superhero/Documents/Tutorials/conference-demo/src/main/java/com/example/conferencedemo/config/PersistenceConfiguration.java
